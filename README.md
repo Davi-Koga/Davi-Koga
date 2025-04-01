@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am focusing on deepening my knowledge in PHP, Node.js, and other programming languages that interest me.</p>
+<p align="left">📚I am currently deepening my knowledge in cybersecurity by taking the CompTIA Security+ (SY0-701) course on Udemy and studying using Kali Linux..</p>
 
 ###
 
